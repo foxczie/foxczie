@@ -3,9 +3,9 @@
 > ☕ I'm also a barista!
 > 
 
-![Dashbord](https://github.com/foxczie/foxczie/blob/main/profile-3d-contrib/profile-night-rainbow.svg)
+![Dashbord](https://raw.githubusercontent.com/foxczie/github-profile-3d-contrib/main/docs/demo/profile-season-animate.svg)
 
-<img height="180em" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DiogoJP202&layout=compact&langs_count=7&theme=dark"> <img height="200em" align="right" src="https://raw.githubusercontent.com/DiogoJP202/Diogojp202/main/octocat-1715101007755.png">
+<img height="180em" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=foxczie&layout=compact&langs_count=7&theme=dark"> <img height="200em" align="right" src="https://raw.githubusercontent.com/foxczie/foxczie/main/ale-octocat.png">
 
 <div align="left">
  <strong align="left">Front-End</strong>

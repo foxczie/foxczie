@@ -1,16 +1,9 @@
-![topWallpaper](https://raw.githubusercontent.com/DiogoJP202/Diogojp202/main/TopWallpaper.gif)
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Pixelify+Sans&pause=1000&color=22F749&center=true&random=false&width=435&lines=Hello+World!++XD+Diogo+Here!)](https://git.io/typing-svg)
-> 👋 "Hello World" I'm Diogo Antonny, a Full-Stack Developer.
+> 👋 Hello World! I'm Alessandra, a Developer.
 > 
-> 🌱 I'm passionate for technology!
+> ☕ I'm also a barista!
 > 
-> 💻 I'm a technology fanatic!
->
-<div align="center">
- <img src="https://raw.githubusercontent.com/DiogoJP202/Diogojp202/main/giphy.gif">
-</div>
 
-![Dashbord](https://github.com/DiogoJP202/Diogojp202/blob/main/profile-3d-contrib/profile-night-rainbow.svg)
+![Dashbord](https://github.com/foxczie/foxczie/blob/main/profile-3d-contrib/profile-night-rainbow.svg)
 
 <img height="180em" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DiogoJP202&layout=compact&langs_count=7&theme=dark"> <img height="200em" align="right" src="https://raw.githubusercontent.com/DiogoJP202/Diogojp202/main/octocat-1715101007755.png">
 
